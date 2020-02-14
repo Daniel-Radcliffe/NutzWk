@@ -91,14 +91,3 @@ https://wizzer.cn/donation                捐赠者列表
 *   内置配置文件启动  `nohup java -jar wk-nb-service-sys.jar &` 带参数 `-Dnutz.profiles.active=prod` 可加载 application-prod.properties 文件
 *   外置配置文件启动  `nohup java -Dnutz.boot.configure.properties.dir=/data/nutzwk/sys/ -jar wk-nb-service-sys.jar &` 此时加载文件夹所有 *.properties 配置文件
 *   生产环境可以使用 [PythonWk](https://github.com/Wizzercn/PythonWk) 进行部署,登陆后台运维中心可在线更新jar包及配置文件等
-
-
-# 鸣谢
-
-*   [@wendal](https://github.com/wendal)
-*   [@rekoe](https://github.com/Rekoe)
-*   [@enilu](https://github.com/enilu)
-*   [@loyalove](https://github.com/loyalove)
-*   [@threefish](https://github.com/threefish)
-
-<a href="https://github.com/Wizzercn/NutzWk/graphs/contributors"><img src="https://opencollective.com/nutzwk/contributors.svg?width=890&button=false" /></a>
